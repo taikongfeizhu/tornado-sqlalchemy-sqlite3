@@ -6,3 +6,4 @@
 2019-12-18 01:14:18,360 upload_views.py[line:52] DEBUG UploadFileHandle: save image path: /Users/huangjian/docker/python/rpc_demo/static/image/
 2019-12-18 01:15:19,466 upload_views.py[line:52] DEBUG UploadFileHandle: save image path: /Users/huangjian/docker/python/rpc_demo/static/image/
 2019-12-18 01:21:48,113 upload_views.py[line:52] DEBUG UploadFileHandle: save image path: /Users/huangjian/docker/python/rpc_demo/static/image/
+2019-12-18 01:56:08,122 upload_views.py[line:50] DEBUG UploadFileHandle: save image path: /Users/huangjian/docker/python/rpc_demo/static/image/

@@ -7,13 +7,11 @@
 import tornado.ioloop
 import tornado.web
 import os
-import sys
 from tornado.options import define, options
 from common.url_router import include, url_wrapper
-from tornado.options import define, options
 from models.user import initdb
 from sqlalchemy.orm import scoped_session, sessionmaker
-from conf.base import BaseDB, engine
+from conf.base import engine
 
 
 class Application(tornado.web.Application):

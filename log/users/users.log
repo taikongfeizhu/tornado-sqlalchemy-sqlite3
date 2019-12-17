@@ -25,3 +25,6 @@
 2019-12-18 01:40:25,850 users_views.py[line:60] DEBUG LoginHandle: get user login: 15811221820
 2019-12-18 01:40:35,629 users_views.py[line:60] DEBUG LoginHandle: get user login: 15811221820
 2019-12-18 01:49:10,415 users_views.py[line:60] DEBUG LoginHandle: get user login: 1888888888
+2019-12-18 01:55:52,248 users_views.py[line:60] DEBUG LoginHandle: get user login: 1888888888
+2019-12-18 01:57:06,732 users_views.py[line:106] DEBUG RegistHandle: insert db, user: 18611001820
+2019-12-18 01:57:06,733 users_views.py[line:113] DEBUG RegistHandle: regist successfully

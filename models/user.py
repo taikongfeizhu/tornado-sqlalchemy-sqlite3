@@ -2,7 +2,6 @@
 # -*- coding:utf-8 -*-
 
 from conf.base import BaseDB, engine
-import sys
 from sqlalchemy import (
     Column,
     Integer,
