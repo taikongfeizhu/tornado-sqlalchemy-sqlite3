@@ -1,0 +1,8 @@
+2019-12-18 01:07:20,736 upload_views.py[line:42] INFO UploadFileHandle: request argument incorrect
+2019-12-18 01:08:12,207 upload_views.py[line:42] INFO UploadFileHandle: request argument incorrect
+2019-12-18 01:10:51,281 upload_views.py[line:42] INFO UploadFileHandle: request argument incorrect
+2019-12-18 01:11:50,682 upload_views.py[line:42] INFO UploadFileHandle: request argument incorrect
+2019-12-18 01:13:49,354 upload_views.py[line:52] DEBUG UploadFileHandle: save image path: /Users/huangjian/docker/python/rpc_demo/static/image/
+2019-12-18 01:14:18,360 upload_views.py[line:52] DEBUG UploadFileHandle: save image path: /Users/huangjian/docker/python/rpc_demo/static/image/
+2019-12-18 01:15:19,466 upload_views.py[line:52] DEBUG UploadFileHandle: save image path: /Users/huangjian/docker/python/rpc_demo/static/image/
+2019-12-18 01:21:48,113 upload_views.py[line:52] DEBUG UploadFileHandle: save image path: /Users/huangjian/docker/python/rpc_demo/static/image/
