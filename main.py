@@ -18,6 +18,7 @@ class Application(tornado.web.Application):
     def __init__(self):
         initdb()
         handlers = url_wrapper([
+            (r"/", include('views.home.home_urls')),
             (r"/users/", include('views.users.users_urls')),
             (r"/upload/", include('views.upload.upload_urls'))
         ])

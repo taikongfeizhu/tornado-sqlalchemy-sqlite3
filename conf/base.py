@@ -9,7 +9,7 @@ BaseDB = declarative_base()
 SERVER_HEADER = "http://127.0.0.1:8000"
 
 ERROR_CODE = {
-    "0": "ok",
+    "0": "success",
     #Users error code
     "1001": "入参非法",
     "1002": "用户已注册，请直接登录",

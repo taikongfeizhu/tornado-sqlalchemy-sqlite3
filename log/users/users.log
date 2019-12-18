@@ -4,3 +4,7 @@
 2019-12-17 21:47:46,605 users_views.py[line:55] DEBUG RegistHandle: regist successfully
 2019-12-17 21:47:50,174 users_views.py[line:55] DEBUG RegistHandle: regist successfully
 2019-12-18 01:57:06,733 users_views.py[line:113] DEBUG RegistHandle: regist successfully
+2019-12-18 11:52:13,796 users_views.py[line:60] DEBUG LoginHandle: get user login: 1888888888
+2019-12-18 11:53:11,095 users_views.py[line:60] DEBUG LoginHandle: get user login: 1888888888
+2019-12-18 12:43:00,363 users_views.py[line:60] DEBUG LoginHandle: get user login: 1888888888
+2019-12-18 12:43:02,547 users_views.py[line:60] DEBUG LoginHandle: get user login: 1888888888

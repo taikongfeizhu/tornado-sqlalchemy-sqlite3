@@ -18,7 +18,7 @@ def save_files(file_metas, in_rel_path, type='image'):
 
 
 def http_response(self, msg, data, code):
-    self.write(json.dumps({"data": {"msg": msg, "code": code, "data": data}}))
+    self.write(json.dumps({"msg": msg, "code": code, "data": data}))
 
 if __name__ == "__main__":
     http_response()
